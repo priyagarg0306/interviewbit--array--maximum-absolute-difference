@@ -20,8 +20,11 @@ So, we return 5.
 **-------> Note:**
 
 a[i]>a[j] and i>j = (a[i]+i)-(a[j]+j)
+
 a[i]>a[j] and i<j = (a[i]-i)-(a[j]-j)
+
 a[i]<a[j] and i>j = -(a[i]-i)+(a[j]-j)
+
 a[i]<a[j] and i<j = -(a[i]+i)+(a[j]+j)
 
 
